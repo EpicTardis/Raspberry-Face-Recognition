@@ -8,4 +8,4 @@ Real-time face recognition project with opencv. It works on Raspberry Pi 3 B+ OS
 **03_face_recognition.py**: Recognition process. Check consistency between trained model and backup model. Use password's md5 to decrypt *yml* file. If wrong, an error message would be given.
 
 **Result preview:**
-![avatar](http://b.hiphotos.baidu.com/image/pic/item/32fa828ba61ea8d3fcd2e9ce9e0a304e241f5803.jpg)
+![avatar](https://github.com/EpicTardis/Raspberry-Face-Recognition/blob/master/Result%20preview.jpg)
